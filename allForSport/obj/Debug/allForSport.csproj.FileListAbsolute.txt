@@ -1,0 +1,16 @@
+C:\Users\am1ri\source\repos\allForSport\allForSport\bin\Debug\allForSport.exe.config
+C:\Users\am1ri\source\repos\allForSport\allForSport\bin\Debug\allForSport.exe
+C:\Users\am1ri\source\repos\allForSport\allForSport\bin\Debug\allForSport.pdb
+C:\Users\am1ri\source\repos\allForSport\allForSport\obj\Debug\allForSport.csprojAssemblyReference.cache
+C:\Users\am1ri\source\repos\allForSport\allForSport\obj\Debug\allForSport.ModeForm.resources
+C:\Users\am1ri\source\repos\allForSport\allForSport\obj\Debug\allForSport.Properties.Resources.resources
+C:\Users\am1ri\source\repos\allForSport\allForSport\obj\Debug\allForSport.csproj.GenerateResource.cache
+C:\Users\am1ri\source\repos\allForSport\allForSport\obj\Debug\allForSport.csproj.CoreCompileInputs.cache
+C:\Users\am1ri\source\repos\allForSport\allForSport\obj\Debug\allForSport.exe
+C:\Users\am1ri\source\repos\allForSport\allForSport\obj\Debug\allForSport.pdb
+C:\Users\am1ri\source\repos\allForSport\allForSport\obj\Debug\allForSport.Form2.resources
+C:\Users\am1ri\source\repos\allForSport\allForSport\obj\Debug\allForSport.Form3.resources
+C:\Users\am1ri\source\repos\allForSport\allForSport\obj\Debug\allForSport.Form4.resources
+C:\Users\am1ri\source\repos\allForSport\allForSport\obj\Debug\allForSport.Form5.resources
+C:\Users\am1ri\source\repos\allForSport\allForSport\obj\Debug\allForSport.Form6Authentity.resources
+C:\Users\am1ri\source\repos\allForSport\allForSport\obj\Debug\allForSport.Form6Registration.resources
